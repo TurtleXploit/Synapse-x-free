@@ -1,1 +1,1 @@
-turn of the real time protection on windows security before you download the files
+Disable your real time protection on windows security before you download the files
